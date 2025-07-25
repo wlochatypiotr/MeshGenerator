@@ -1,0 +1,11 @@
+﻿  main.cpp
+  MeshGenerator.cpp
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(63,56): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(63,44): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(63,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(85,33): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(108,33): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(131,59): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\wloch\source\repos\ConsoleApplication1\MeshGenarator\MeshGenerator.cpp(131,37): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  Generating Code...
+  MeshGenarator.vcxproj -> C:\Users\wloch\source\repos\ConsoleApplication1\x64\Debug\MeshGenerator.exe
